@@ -3,4 +3,4 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
 board[1] = "X"
 
-board.inspect
+puts board 
